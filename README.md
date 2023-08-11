@@ -1,0 +1,1 @@
+# dbms-vuln-chk-script
